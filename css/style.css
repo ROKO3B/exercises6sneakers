@@ -42,8 +42,8 @@ li {
 
 /*----------------header---------------*/
 #header {
-  display: flex;
   width: 100%;
+  display: flex;
   justify-content: space-between;
   padding: 20px 40px;
   position: fixed;
@@ -157,4 +157,16 @@ li {
   opacity: 0.8;
   z-index: 10;
   cursor: pointer;
-}/*# sourceMappingURL=style.css.map */
+}
+
+/*--------------main------------------*/
+#main {
+  padding-top: 80px;
+}
+
+/*-------------video------------------*/
+#bg-video {
+  width: 100%;
+}
+
+/*-------------section----------------*//*# sourceMappingURL=style.css.map */

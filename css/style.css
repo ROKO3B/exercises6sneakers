@@ -302,7 +302,7 @@ li {
     display: inline-block;
   }
   #pickup .slick-area img {
-    width: 236px;
+    width: 100%;
     height: 157px;
     display: block;
   }
